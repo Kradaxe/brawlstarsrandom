@@ -1,0 +1,1 @@
+imgElement.style.height = '30vh';
